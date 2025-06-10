@@ -1,4 +1,4 @@
-| File            | Likely Target                    | Summary Description                                                                                                                          |
+| File            |  Target                    | Summary Description                                                                                                                          |
 | --------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | `activemq.rar`  | **Apache ActiveMQ**              | Contains an exploit targeting Apache ActiveMQ for remote command execution, often through deserialization or open endpoints.                 |
 | `boa.rar`       | **Boa Web Server (IoT)**         | Exploits vulnerabilities in the Boa embedded HTTP server, commonly used in routers and DVRs, to gain unauthorized access or shell execution. |
